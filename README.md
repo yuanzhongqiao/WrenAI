@@ -1,164 +1,151 @@
-
-
-<p align="center" id="top">
-  <a href="https://getwren.ai/?utm_source=github&utm_medium=title&utm_campaign=readme">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./misc/wrenai_logo.png">
-      <img src="./misc/wrenai_logo_white.png" width="300px">
-    </picture>
-    <h1 align="center">Wren AI</h1>
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" id="user-content-top" dir="auto">
+  <a href="https://getwren.ai/?utm_source=github&amp;utm_medium=title&amp;utm_campaign=readme" rel="nofollow">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+      <source media="(prefers-color-scheme: light)" srcset="/Canner/WrenAI/raw/main/misc/wrenai_logo.png">
+      <img src="/Canner/WrenAI/raw/main/misc/wrenai_logo_white.png" width="300px" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
+    </a></p><div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto" _msttexthash="6100796" _msthash="262">雷恩 AI</h1><a id="user-content-wren-ai" class="anchor" aria-label="永久链接： Wren AI" href="#wren-ai" _mstaria-label="284778" _msthash="263"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+  
+<p dir="auto"></p>
+<p align="center" dir="auto">
+  <a aria-label="在 X 上关注我们" href="https://x.com/getwrenai" rel="nofollow" _mstaria-label="183703" _msthash="264">
+    <img alt="" src="https://camo.githubusercontent.com/157365d445e6373cdf27f18580429d558fbf4d7cc385d63111b98ecf47b78ae1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d406765747772656e61692d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d67726179266c6f676f57696474683d3230" data-canonical-src="https://img.shields.io/badge/-@getwrenai-blue?style=for-the-badge&amp;logo=x&amp;logoColor=white&amp;labelColor=gray&amp;logoWidth=20" style="max-width: 100%;">
+  </a>
+  <a aria-label="释放" href="https://github.com/canner/WrenAI/releases" _mstaria-label="113542" _msthash="265">
+    <img alt="" src="https://camo.githubusercontent.com/5c132371c5ccaa57c0cc786ddc9c245efa3101071255992dec9d1e276a108a91/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f63616e6e65722f5772656e41493f6c6f676f3d676974687562266c6162656c3d47697448756225323052656c6561736526636f6c6f723d626c7565267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/github/v/release/canner/WrenAI?logo=github&amp;label=GitHub%20Release&amp;color=blue&amp;style=for-the-badge" style="max-width: 100%;">
+  </a>
+  <a aria-label="许可证" href="https://github.com/Canner/WrenAI/blob/main/LICENSE" _mstaria-label="93288" _msthash="266">
+    <img alt="" src="https://camo.githubusercontent.com/101ebd53c42e1a43f53ef5c0999b8a2fed0975e9a3ec3923038f169256073f96/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f63616e6e65722f5772656e41493f636f6c6f723d626c7565267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/github/license/canner/WrenAI?color=blue&amp;style=for-the-badge" style="max-width: 100%;">
+  </a>
+  <a aria-label="在 GitHub 上加入社区" href="https://discord.gg/5DvshJqG8Z" rel="nofollow" _mstaria-label="604617" _msthash="267">
+    <img alt="" src="https://camo.githubusercontent.com/319346a1542835475fca985aa0adba79dc58a7b80093e682ee2e5cd5cbc7b4ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a4f494e253230544845253230434f4d4d554e4954592d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d67726579266c6f676f57696474683d3230" data-canonical-src="https://img.shields.io/badge/-JOIN%20THE%20COMMUNITY-blue?style=for-the-badge&amp;logo=discord&amp;logoColor=white&amp;labelColor=grey&amp;logoWidth=20" style="max-width: 100%;">
+  </a>
+  <a aria-label="罐头" href="https://cannerdata.com/?utm_source=github&amp;utm_medium=badge&amp;utm_campaign=readme" rel="nofollow" _mstaria-label="75582" _msthash="268">
+    <img src="https://camo.githubusercontent.com/bbe2ab394a832a37d36fd349a95e77452c1eb74640def997e50b94ad6d157a59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2546302539462541372541312d4d616465253230627925323043616e6e65722d626c75653f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/%F0%9F%A7%A1-Made%20by%20Canner-blue?style=for-the-badge" style="max-width: 100%;">
   </a>
 </p>
-
-<p align="center">
-  <a aria-label="Follow us on X" href="https://x.com/getwrenai">
-    <img alt="" src="https://img.shields.io/badge/-@getwrenai-blue?style=for-the-badge&logo=x&logoColor=white&labelColor=gray&logoWidth=20">
-  </a>
-  <a aria-label="Releases" href="https://github.com/canner/WrenAI/releases">
-    <img alt="" src="https://img.shields.io/github/v/release/canner/WrenAI?logo=github&label=GitHub%20Release&color=blue&style=for-the-badge">
-  </a>
-  <a aria-label="License" href="https://github.com/Canner/WrenAI/blob/main/LICENSE">
-    <img alt="" src="https://img.shields.io/github/license/canner/WrenAI?color=blue&style=for-the-badge">
-  </a>
-  <a aria-label="Join the community on GitHub" href="https://discord.gg/5DvshJqG8Z">
-    <img alt="" src="https://img.shields.io/badge/-JOIN%20THE%20COMMUNITY-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=grey&logoWidth=20">
-  </a>
-  <a aria-label="Canner" href="https://cannerdata.com/?utm_source=github&utm_medium=badge&utm_campaign=readme">
-    <img src="https://img.shields.io/badge/%F0%9F%A7%A1-Made%20by%20Canner-blue?style=for-the-badge">
-  </a>
+<blockquote>
+<p dir="auto" _msttexthash="1010247017" _msthash="269">Wren AI 是一个<strong _istranslated="1">开源的 SQL AI 代理</strong>，它使数据、产品和业务团队能够通过聊天、内置精心设计的直观 UI 和 UX 以及与 Excel 和 Google 表格等工具无缝集成来获取见解。</p>
+</blockquote>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/Canner/WrenAI/blob/main/misc/wrenai_view.png"><img src="/Canner/WrenAI/raw/main/misc/wrenai_view.png" style="max-width: 100%;"></a>
 </p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="44176431" _msthash="270">🕶 自己试试吧！</h2><a id="user-content--try-it-yourself" class="anchor" aria-label="永久链接：🕶自己试试吧！" href="#-try-it-yourself" _mstaria-label="26125411" _msthash="271"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频描述 Wren-ask_1080.mp4" class="m-1" _mstaria-label="872469" _msthash="272" _msttexthash="259948">Wren-ask_1080.mp4</span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-> Wren AI is an **open-source SQL AI Agent** that empowers data, product, and business teams to access insights through chat, built-in well designed intuitive UI and UX, integrating seamlessly with tools like Excel and Google Sheets.
+  <video src="https://private-user-images.githubusercontent.com/1216029/357459542-737bbf1f-f9f0-483b-afb3-2c622c9b91ba.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM3MTgyMTUsIm5iZiI6MTczMzcxNzkxNSwicGF0aCI6Ii8xMjE2MDI5LzM1NzQ1OTU0Mi03MzdiYmYxZi1mOWYwLTQ4M2ItYWZiMy0yYzYyMmM5YjkxYmEubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MTIwOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDEyMDlUMDQxODM1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MDI2YzE0MWIzYTE1YWM1MmZkZjkxYTk3Y2VlYjI3ZTM4MWQzNjhjNDI3OGVjZTlhNjQxMjg5MTUwYzhkNmQ3NyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.IU14MXLP419PZly3TcinxeSKE3rdLiaZYx2wUf0VJPg" data-canonical-src="https://private-user-images.githubusercontent.com/1216029/357459542-737bbf1f-f9f0-483b-afb3-2c622c9b91ba.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM3MTgyMTUsIm5iZiI6MTczMzcxNzkxNSwicGF0aCI6Ii8xMjE2MDI5LzM1NzQ1OTU0Mi03MzdiYmYxZi1mOWYwLTQ4M2ItYWZiMy0yYzYyMmM5YjkxYmEubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MTIwOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDEyMDlUMDQxODM1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MDI2YzE0MWIzYTE1YWM1MmZkZjkxYTk3Y2VlYjI3ZTM4MWQzNjhjNDI3OGVjZTlhNjQxMjg5MTUwYzhkNmQ3NyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.IU14MXLP419PZly3TcinxeSKE3rdLiaZYx2wUf0VJPg" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-<p align="center">
-  <img src="./misc/wrenai_view.png">
+  </video>
+</details>
+
+<p dir="auto" _msttexthash="168452973" _msthash="273">👉 在 <a href="https://getwren.ai/?utm_source=github&amp;utm_medium=content&amp;utm_campaign=readme" rel="nofollow" _istranslated="1">Wren AI Cloud</a> 上试用您的数据或<a href="https://docs.getwren.ai/oss/installation/?utm_source=github&amp;utm_medium=content&amp;utm_campaign=readme" rel="nofollow" _istranslated="1">在本地环境中安装</a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="41616965" _msthash="274">🎯 我们的愿景和使命</h2><a id="user-content--our-vision--mission" class="anchor" aria-label="永久链接：🎯我们的愿景和使命" href="#-our-vision--mission" _mstaria-label="26572390" _msthash="275"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="295615762" _msthash="276">Wren AI 的使命是通过将具有 SQL 功能的 AI 代理引入任何数据源来实现数据民主化。</p>
+<p dir="auto" _msttexthash="107425760" _msthash="277">🤩 <a href="https://docs.getwren.ai/oss/overview/introduction/?utm_source=github&amp;utm_medium=content&amp;utm_campaign=readme" rel="nofollow" _istranslated="1">了解有关 Wren AI 和我们的使命的更多信息</a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="207192297" _msthash="278">🤖 以用户为中心的端到端开源 SQL AI 代理 - 文本到 SQL 的整体解决方案</h2><a id="user-content--a-user-centric-end-to-end-open-source-sql-ai-agent---text-to-sql-total-solution" class="anchor" aria-label="永久链接：🤖以用户为中心的端到端开源 SQL AI 代理 - 文本到 SQL 整体解决方案" href="#-a-user-centric-end-to-end-open-source-sql-ai-agent---text-to-sql-total-solution" _mstaria-label="30231461" _msthash="279"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="40429441" _msthash="280">1. 以任何语言处理数据</h3><a id="user-content-1-talk-to-your-data-in-any-language" class="anchor" aria-label="永久链接：1. 以任何语言处理您的数据" href="#1-talk-to-your-data-in-any-language" _mstaria-label="1311089" _msthash="281"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto" _msttexthash="2718186549" _msthash="282">Wren AI 会说<a href="https://docs.getwren.ai/oss/guide/settings/pj_settings#change-project-language?utm_source=github&amp;utm_medium=content&amp;utm_campaign=readme" rel="nofollow" _istranslated="1">您的语言</a>，例如英语、德语、西班牙语、法语、日语、韩语、葡萄牙语、中文等。通过向 Wren AI 询问您的业务问题来解锁有价值的见解。它超越了表面的数据分析，揭示了有意义的信息，并简化了从潜在客户评分模板到客户细分的答案获取过程。</p>
+</blockquote>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/Canner/WrenAI/blob/main/misc/wren-lang.png"><img src="/Canner/WrenAI/raw/main/misc/wren-lang.png" style="max-width: 100%;"></a>
 </p>
-
-## 🕶 Try it yourself!
-
-https://github.com/user-attachments/assets/737bbf1f-f9f0-483b-afb3-2c622c9b91ba
-
-👉 Try with your data on [Wren AI Cloud](https://getwren.ai/?utm_source=github&utm_medium=content&utm_campaign=readme) or [Install in your local environment](https://docs.getwren.ai/oss/installation/?utm_source=github&utm_medium=content&utm_campaign=readme)
-
-
-## 🎯 Our Vision & Mission
-
-Wren AI’s mission is to democratize data by bringing AI agents with SQL ability to any data source.
-
-🤩 [Learn more about Wren AI and our Mission](https://docs.getwren.ai/oss/overview/introduction/?utm_source=github&utm_medium=content&utm_campaign=readme)
-
-## 🤖 A User-Centric, End-to-End Open-source SQL AI Agent - Text-to-SQL Total Solution
-
-### 1. Talk to Your Data in Any Language
-
-> Wren AI speaks [your language](https://docs.getwren.ai/oss/guide/settings/pj_settings#change-project-language?utm_source=github&utm_medium=content&utm_campaign=readme), such as English, German, Spanish, French, Japanese, Korean, Portuguese, Chinese, and more. Unlock valuable insights by asking your business questions to Wren AI. It goes beyond surface-level data analysis to reveal meaningful information and simplifies obtaining answers from lead scoring templates to customer segmentation.
-
-<p align="center">
-  <img src="./misc/wren-lang.png" style="max-width: 700px"/>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="49288629" _msthash="283">2. AI 驱动的数据探索功能</h3><a id="user-content-2-ai-powered-data-exploration-features" class="anchor" aria-label="永久链接：2. AI 驱动的数据探索功能" href="#2-ai-powered-data-exploration-features" _mstaria-label="1708902" _msthash="284"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto" _msttexthash="2995718609" _msthash="285">除了从数据库中检索数据之外，Wren AI 现在还可以回答探索性问题，例如“我拥有哪些数据”或“我的客户表中有哪些列？此外，我们的 AI 会根据您的情况动态生成推荐问题和智能后续查询，使数据探索更智能、更快速、更直观。让您的团队能够使用 AI 轻松获得更深入的洞察。</p>
+</blockquote>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/Canner/WrenAI/blob/main/misc/AI-generated-understanding_recommend_questions.png"><img src="/Canner/WrenAI/raw/main/misc/AI-generated-understanding_recommend_questions.png" style="max-width: 100%;"></a>
 </p>
-
-### 2. AI-powered Data Exploration Features
-
-> Beyond just retrieving data from your databases, Wren AI now answers exploratory questions like “What data do I have?” or “What are the columns in my customer tables?” Additionally, our AI dynamically generates recommended questions and intelligent follow-up queries tailored to your context, making data exploration smarter, faster, and more intuitive. Empower your team to unlock deeper insights effortlessly with AI.
-
-<p align="center">
-  <img src="./misc/AI-generated-understanding_recommend_questions.png" style="max-width: 700px"/>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="75251072" _msthash="286">3. 具有精心设计的 UI/UX 的语义索引</h3><a id="user-content-3-semantic-indexing-with-a-well-crafted-uiux" class="anchor" aria-label="永久链接：3. 具有精心设计的 UI/UX 的语义索引" href="#3-semantic-indexing-with-a-well-crafted-uiux" _mstaria-label="1942681" _msthash="287"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto" _msttexthash="828556820" _msthash="288">Wren AI 实施了语义<a href="https://www.getwren.ai/post/how-we-design-our-semantic-engine-for-llms-the-backbone-of-the-semantic-layer-for-llm-architecture/?utm_source=github&amp;utm_medium=content&amp;utm_campaign=readme" rel="nofollow" _istranslated="1">引擎架构</a>来提供您业务的 LLM 上下文;您可以轻松地在数据架构上建立一个逻辑表示层，以帮助 LLM 更多地了解您的业务环境。</p>
+</blockquote>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/Canner/WrenAI/blob/main/misc/wren-modeling.png"><img src="/Canner/WrenAI/raw/main/misc/wren-modeling.png" style="max-width: 100%;"></a>
 </p>
-
-### 3. Semantic Indexing with a Well-Crafted UI/UX
-
-> Wren AI has implemented a [semantic engine architecture](https://www.getwren.ai/post/how-we-design-our-semantic-engine-for-llms-the-backbone-of-the-semantic-layer-for-llm-architecture/?utm_source=github&utm_medium=content&utm_campaign=readme) to provide the LLM context of your business; you can easily establish a logical presentation layer on your data schema that helps LLM learn more about your business context.
-
-<p align="center">
-  <img src="./misc/wren-modeling.png" style="max-width: 700px"/>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="42940794" _msthash="289">4. 使用上下文生成 SQL 查询</h3><a id="user-content-4-generate-sql-queries-with-context" class="anchor" aria-label="永久链接：4. 使用上下文生成 SQL 查询" href="#4-generate-sql-queries-with-context" _mstaria-label="1458860" _msthash="290"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto" _msttexthash="916531564" _msthash="291">借助 Wren AI，您可以使用<a href="https://docs.getwren.ai/oss/engine/concept/what_is_mdl/?utm_source=github&amp;utm_medium=content&amp;utm_campaign=readme" rel="nofollow" _istranslated="1">“建模定义语言”</a>处理元数据、架构、术语、数据关系以及计算和聚合背后的逻辑，从而减少重复编码并简化数据联接。</p>
+</blockquote>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/Canner/WrenAI/blob/main/misc/wren-context.png"><img src="/Canner/WrenAI/raw/main/misc/wren-context.png" style="max-width: 100%;"></a>
 </p>
-
-### 4. Generate SQL Queries with Context
-
-> With Wren AI, you can process metadata, schema, terminology, data relationships, and the logic behind calculations and aggregations with [“Modeling Definition Language”](https://docs.getwren.ai/oss/engine/concept/what_is_mdl/?utm_source=github&utm_medium=content&utm_campaign=readme), reducing duplicate coding and simplifying data joins.
-
-<p align="center">
-  <img src="./misc/wren-context.png" style="max-width: 700px"/>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="64702859" _msthash="292">5. 无需编写代码即可获得见解</h3><a id="user-content-5-get-insights-without-writing-code" class="anchor" aria-label="永久链接：5. 无需编写代码即可获得见解" href="#5-get-insights-without-writing-code" _mstaria-label="1473589" _msthash="293"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto" _msttexthash="987279787" _msthash="294">在 Wren AI 中开始新对话时，您的问题将用于查找最相关的表。从这些中，LLM 为用户生成最相关的问题。您还可以提出后续问题以获得更深入的见解。</p>
+</blockquote>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/Canner/WrenAI/blob/main/misc/wren-insight.png"><img src="/Canner/WrenAI/raw/main/misc/wren-insight.png" style="max-width: 100%;"></a>
 </p>
-
-### 5. Get Insights without Writing Code
-
-> When starting a new conversation in Wren AI, your question is used to find the most relevant tables. From these, LLM generates the most relevant question for the user. You can also ask follow-up questions to get deeper insights.
-
-<p align="center">
-  <img src="./misc/wren-insight.png" style="max-width: 700px"/>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="58863025" _msthash="295">6. 轻松导出和可视化您的数据</h3><a id="user-content-6-easily-export-and-visualize-your-data" class="anchor" aria-label="永久链接：6. 轻松导出和可视化您的数据" href="#6-easily-export-and-visualize-your-data" _mstaria-label="1664013" _msthash="296"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto" _msttexthash="1589257072" _msthash="297">Wren AI 提供无缝的端到端工作流程，使您能够轻松地将数据与 <a href="https://docs.getwren.ai/oss/guide/integrations/excel-add-in/?utm_source=github&amp;utm_medium=content&amp;utm_campaign=readme" rel="nofollow" _istranslated="1">Excel</a> 和 <a href="https://docs.getwren.ai/oss/guide/integrations/google-add-on/?utm_source=github&amp;utm_medium=content&amp;utm_campaign=readme" rel="nofollow" _istranslated="1">Google 表格</a>等流行的分析工具连接起来。这样，您的见解仍然可以访问，从而可以使用您最熟悉的工具进行进一步分析。</p>
+</blockquote>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/Canner/WrenAI/blob/main/misc/wren-excel.png"><img src="/Canner/WrenAI/raw/main/misc/wren-excel.png" style="max-width: 100%;"></a>
 </p>
-
-### 6. Easily Export and Visualize Your Data
-
-> Wren AI provides a seamless end-to-end workflow, enabling you to connect your data effortlessly with popular analysis tools such as [Excel](https://docs.getwren.ai/oss/guide/integrations/excel-add-in/?utm_source=github&utm_medium=content&utm_campaign=readme) and [Google Sheets](https://docs.getwren.ai/oss/guide/integrations/google-add-on/?utm_source=github&utm_medium=content&utm_campaign=readme). This way, your insights remain accessible, allowing for further analysis using the tools you know best.
-
-<p align="center">
-  <img src="./misc/wren-excel.png" style="max-width: 700px"/>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="45882044" _msthash="298">🤔 为什么选择 Wren AI？</h2><a id="user-content--why-wren-ai" class="anchor" aria-label="永久链接：🤔为什么选择 Wren AI？" href="#-why-wren-ai" _mstaria-label="25902604" _msthash="299"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="125548293" _msthash="300">我们专注于为每个人提供开放、安全且准确的 SQL AI 代理。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="29340077" _msthash="301">1. 交钥匙解决方案</h3><a id="user-content-1-turnkey-solution" class="anchor" aria-label="永久链接： 1. 交钥匙解决方案" href="#1-turnkey-solution" _mstaria-label="716235" _msthash="302"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto" _msttexthash="499213546" _msthash="303">Wren AI 使您可以轻松载入数据。使用我们的用户界面发现和分析您的数据。无需编码即可轻松生成结果。</p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="87369477" _msthash="304">2. 个性化答案，无需将数据暴露给 LLM</h3><a id="user-content-2-personalized-answers-without-exposing-data-to-llm" class="anchor" aria-label="永久链接：2. 个性化答案，无需将数据暴露给 LLM" href="#2-personalized-answers-without-exposing-data-to-llm" _mstaria-label="2525406" _msthash="305"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto" _msttexthash="666065348" _msthash="306">您的敏感信息将受到保护，不会有被训练为公共 LLM 的风险，从而为您提供安全、个性化的见解，同时保持对数据的完全控制。</p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="41454764" _msthash="307">3. 开源端到端解决方案</h3><a id="user-content-3-open-source-end-to-end-solution" class="anchor" aria-label="永久链接：3. 开源端到端解决方案" href="#3-open-source-end-to-end-solution" _mstaria-label="1412151" _msthash="308"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto" _msttexthash="326261559" _msthash="309">在您自己的数据、LLM API 和环境上将 Wren AI 部署到您喜欢的任何位置，它是免费的。</p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="56490070" _msthash="310">🤖 Wren AI 文本到 SQL 代理架构</h2><a id="user-content--wren-ai-text-to-sql-agentic-architecture" class="anchor" aria-label="永久链接： 🤖 Wren AI Text-to-SQL Agentic Architecture" href="#-wren-ai-text-to-sql-agentic-architecture" _mstaria-label="27302847" _msthash="311"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="69008134" _msthash="312">Wren AI 由三个核心服务组成：</p>
+<ul dir="auto">
+<li>
+<p dir="auto" _msttexthash="269612733" _msthash="313"><em _istranslated="1"><strong _istranslated="1"><a href="https://github.com/Canner/WrenAI/tree/main/wren-ui" _istranslated="1">雷恩 UI：</a></strong></em>直观的用户界面，用于提出问题、定义数据关系和集成数据源。</p>
+</li>
+<li>
+<p dir="auto" _msttexthash="373078095" _msthash="314"><em _istranslated="1"><strong _istranslated="1"><a href="https://github.com/Canner/WrenAI/tree/main/wren-ai-service" _istranslated="1">Wren AI 服务</a>：</strong></em>使用矢量数据库处理查询以进行上下文检索，指导 LLM 生成精确的 SQL 输出。</p>
+</li>
+<li>
+<p dir="auto" _msttexthash="457099500" _msthash="315"><em _istranslated="1"><strong _istranslated="1"><a href="https://github.com/Canner/wren-engine" _istranslated="1">Wren 引擎</a>：</strong></em>充当语义引擎，将业务术语映射到数据源，定义关系，并合并预定义的计算和聚合。</p>
+</li>
+</ul>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/Canner/WrenAI/blob/main/misc/how_wrenai_works.png"><img src="/Canner/WrenAI/raw/main/misc/how_wrenai_works.png" style="max-width: 100%;"></a>
 </p>
-
-## 🤔 Why Wren AI?
-
-We focus on providing an open, secure, and accurate SQL AI Agent for everyone.
-
-### 1. Turnkey Solution
-
-> Wren AI makes it easy to onboard your data. Discover and analyze your data with our user interface. Effortlessly generate results without needing to code.
-
-### 2. Personalized answers without exposing data to LLM
-
-> Your sensitive information remains protected, with no risk of being trained to public LLMs, giving you secure, personalized insights while maintaining full control of your data.
-
-### 3. Open-source End-to-end Solution
-
-> Deploy Wren AI anywhere you like on your own data, LLM APIs, and environment, it's free.
-
-## 🤖 Wren AI Text-to-SQL Agentic Architecture
-
-Wren AI consists of three core services:
-
-- ***[Wren UI](https://github.com/Canner/WrenAI/tree/main/wren-ui):*** An intuitive user interface for asking questions, defining data relationships, and integrating data sources.
-
-- ***[Wren AI Service](https://github.com/Canner/WrenAI/tree/main/wren-ai-service):*** Processes queries using a vector database for context retrieval, guiding LLMs to produce precise SQL outputs.
-
-- ***[Wren Engine](https://github.com/Canner/wren-engine):*** Serves as the semantic engine, mapping business terms to data sources, defining relationships, and incorporating predefined calculations and aggregations.
-
-<p align="center">
-  <img src="./misc/how_wrenai_works.png" style="max-width: 1000px;">
-</p>
-
-## ❤️ Knowledge Sharing From Wren AI
-
-Want to get our latest sharing? [Follow our blog!](https://www.getwren.ai/blog/?utm_source=github&utm_medium=content&utm_campaign=readme)
-
-## 🚀 Getting Started
-
-Using Wren AI is super simple, you can set it up within 3 minutes, and start to interact with your data!
-
-- Visit our [Installation Guide of Wren AI](http://docs.getwren.ai/oss/installation).
-- Visit the [Usage Guides](https://docs.getwren.ai/oss/guide/connect/overview) to learn more about how to use Wren AI.
-
-## 📚 Documentation
-
-Visit [Wren AI documentation](https://docs.getwren.ai/oss/overview/introduction) to view the full documentation.
-
-## 🛠️ Contribution
-
-Want to contribute to Wren AI? Check out our [Contribution Guidelines](https://github.com/Canner/WrenAI/blob/main/CONTRIBUTING.md).
-
-## ⭐️ Community
-
-- Welcome to our [Discord server](https://discord.gg/5DvshJqG8Z) to give us feedback!
-- If there are any issues, please visit [GitHub Issues](https://github.com/Canner/WrenAI/issues).
-- Explore our [public roadmap](https://github.com/orgs/Canner/projects/12/views/1) to stay updated on upcoming features and improvements!
-
-Please note that our [Code of Conduct](./CODE_OF_CONDUCT.md) applies to all Wren AI community channels. Users are **highly encouraged** to read and adhere to them to avoid repercussions.
-
-## 🎉 Our Contributors
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="37823838" _msthash="316">❤️ Wren AI 的知识共享</h2><a id="user-content-️-knowledge-sharing-from-wren-ai" class="anchor" aria-label="永久链接：❤️来自 Wren AI 的知识共享" href="#️-knowledge-sharing-from-wren-ai" _mstaria-label="18649826" _msthash="317"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="128949158" _msthash="318">想要获取我们的最新分享？<a href="https://www.getwren.ai/blog/?utm_source=github&amp;utm_medium=content&amp;utm_campaign=readme" rel="nofollow" _istranslated="1">关注我们的博客！</a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="16795077" _msthash="319">🚀 开始</h2><a id="user-content--getting-started" class="anchor" aria-label="永久链接： 🚀 开始使用" href="#-getting-started" _mstaria-label="26191672" _msthash="320"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="379746224" _msthash="321">使用 Wren AI 非常简单，您可以在 3 分钟内完成设置，然后开始与您的数据进行交互！</p>
+<ul dir="auto">
+<li _msttexthash="54055924" _msthash="322">请访问我们的 <a href="http://docs.getwren.ai/oss/installation" rel="nofollow" _istranslated="1">Wren AI 安装指南</a>。</li>
+<li _msttexthash="140514192" _msthash="323">请访问<a href="https://docs.getwren.ai/oss/guide/connect/overview" rel="nofollow" _istranslated="1">使用指南</a>，了解有关如何使用 Wren AI 的更多信息。</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="17432376" _msthash="324">📚 文档</h2><a id="user-content--documentation" class="anchor" aria-label="永久链接： 📚 文档" href="#-documentation" _mstaria-label="26059176" _msthash="325"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="61918285" _msthash="326">访问 <a href="https://docs.getwren.ai/oss/overview/introduction" rel="nofollow" _istranslated="1">Wren AI 文档</a> 查看完整文档。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="27494142" _msthash="327">🛠️ 贡献</h2><a id="user-content-️-contribution" class="anchor" aria-label="永久链接： 🛠️ 贡献" href="#️-contribution" _mstaria-label="42223519" _msthash="328"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="134253327" _msthash="329">想为 Wren AI 做出贡献吗？查看我们的<a href="https://github.com/Canner/WrenAI/blob/main/CONTRIBUTING.md" _istranslated="1">贡献指南</a>。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="14174290" _msthash="330">⭐️ 社区</h2><a id="user-content-️-community" class="anchor" aria-label="永久链接： ⭐️ 社区" href="#️-community" _mstaria-label="18107726" _msthash="331"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="115617476" _msthash="332">欢迎来到我们的 <a href="https://discord.gg/5DvshJqG8Z" rel="nofollow" _istranslated="1">Discord 服务器</a>给我们反馈！</li>
+<li _msttexthash="89825788" _msthash="333">如果有任何问题，请访问 <a href="https://github.com/Canner/WrenAI/issues" _istranslated="1">GitHub 问题</a>。</li>
+<li _msttexthash="202557836" _msthash="334">探索我们的<a href="https://github.com/orgs/Canner/projects/12/views/1" _istranslated="1">公共路线图</a>，随时了解即将推出的功能和改进！</li>
+</ul>
+<p dir="auto" _msttexthash="420379921" _msthash="335">请注意，我们的<a href="/Canner/WrenAI/blob/main/CODE_OF_CONDUCT.md" _istranslated="1">行为准则</a>适用于所有 Wren AI 社区频道。<strong _istranslated="1">强烈建议</strong>用户阅读并遵守它们以避免影响。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="37475165" _msthash="336">🎉 我们的贡献者</h2><a id="user-content--our-contributors" class="anchor" aria-label="永久链接： 🎉 我们的贡献者" href="#-our-contributors" _mstaria-label="26318357" _msthash="337"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <a href="https://github.com/canner/wrenAI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Canner/WrenAI" />
+  <img src="https://camo.githubusercontent.com/d62c4b929798af47921866f611a192bdc02b2b2fe35d707fb6d9a887c30c2b07/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d43616e6e65722f5772656e4149" data-canonical-src="https://contrib.rocks/image?repo=Canner/WrenAI" style="max-width: 100%;">
 </a>
-
-<p align="right">
-  <a href="#top">⬆️ Back to Top</a>
+<p align="right" dir="auto">
+  <a href="#top" _msttexthash="26679965" _msthash="338">⬆️ 返回页首</a>
 </p>
+</article></div>
